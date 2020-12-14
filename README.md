@@ -1,5 +1,8 @@
 # Facebook's messenger.com - Force Official Dark Mode (M-FODM)
 
+## How to use this script
+To use this script, click on the .js file called **messenger-dot-com-force-official-dark-mode-M-FODM.user.js** in this repository, or go to [this link](https://github.com/FrostiiZ/fb-messenger-official-dark-mode/blob/main/messenger-dot-com-force-official-dark-mode-M-FODM.user.js) and click "raw" on the top right corner of the preview window. This will make Tampermonkey ask you if you want to install this script and automatically reference it correctly and follow future updates.
+
 ## What is this ?
 This is a Tampermonkey script that forces messenger.com to use Facebook's official Dark Theme.
 
