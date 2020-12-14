@@ -1,4 +1,4 @@
-# Facebook's messenger.com Official Dark Mode
+# Facebook's messenger.com - Force Official Dark Mode (M-FODM)
 
 ## What is this ?
 This is a Tampermonkey script that forces messenger.com to use Facebook's official Dark Theme.
