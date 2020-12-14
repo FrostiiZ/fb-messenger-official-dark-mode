@@ -13,5 +13,5 @@ What this script does is just applying the same class that Facebook uses on the 
 That's a good question. Facebook does already have implemented a dark mode on messenger.com, but still not providing a toggle to enable it from the UI.
 This will surely come later on, but for the time being, this script can be useful by forcing the dark theme class.
 
-# Screenshot
+# Screenshot (Google Chrome)
 ![alt text](https://github.com/FrostiiZ/fb-messenger-official-dark-mode/blob/main/fb_messenger_dark_mode_screenshot.png?raw=true)
