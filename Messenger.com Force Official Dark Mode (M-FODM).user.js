@@ -11,5 +11,7 @@
 (function() {
     'use strict';
 
-    document.querySelector('html').classList.add('__fb-dark-mode');
+    window.onload = function() {
+        document.querySelector('html').classList.add('__fb-dark-mode');
+    }
 })();
